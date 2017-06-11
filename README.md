@@ -10,6 +10,8 @@ unterhalten.
 1. [Registrierung](#registrierung)
 2. [Zugriff](#zugriff)
 3. [Channels](#channels)
+4. [Regeln](#regeln)
+5. [Disclaimer](#disclaimer)
 
 ## Registrierung
 
@@ -56,3 +58,20 @@ Nun kann ein beliebiger Channel ausgewählt werden, dem man beitreten möchte.
 Alternativ kann man über "New channel" einen neuen Channel erstellen.
 
 ![Channels List](assets/browse-channels-list.png)
+
+## Regeln
+
+Da zu diesem Zeitpunkt keine Regeln ausformuliert sind, verweise ich auf den
+gesunden Menschenverstand und bitte alle, sich zu benehmen. Wer das nicht tut,
+kann vom Slack-Team gebannt werden.
+
+## Disclaimer
+
+Dieses Slack-Team ist derzeit komplett unabhängig von der Schulverwaltung und
+wird von Schülern verwaltet. Das ZID ist nicht in dieses Projekt involviert.
+
+Bitte keine Beschwerde-Emails oder Verbesserungsvorschläge bezüglich des
+Slack-Teams an das ZID o.ä. zu senden, die haben nichts hiermit zu tun.
+
+Da das Slack-Team ein Freizeitprojekt ist, wird nicht für ständige
+Administration garantiert.
