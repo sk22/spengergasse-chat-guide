@@ -10,7 +10,7 @@ unterhalten.
 Alle Mitglieder der HTL Spengergasse können sich unter dem folgenden Link
 registrieren:
 
-[![Registrieren](https://github.com/sk22/spengergasse-chat-guide/blob/master/assets/registrieren.svg)](https://join.slack.com/spengergasse-chat/signup)
+[![Registrieren](https://raw.githubusercontent.com/sk22/spengergasse-chat-guide/master/assets/registrieren.svg)](https://join.slack.com/spengergasse-chat/signup)
 
 * Als **Email-Adresse** ist die eigene Spengergassen-Email anzugeben
   (endet mit `@spengergasse.at`).
