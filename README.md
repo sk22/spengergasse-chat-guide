@@ -42,7 +42,7 @@ Slack-Teams basieren auf Channels. Jedem Mitglied steht frei, selbst Channels zu
 erstellen, z.B. für einzelne Abteilungen, Klassen oder Interessengemeinschaften.
 
 Möchte man einem Channel beitreten, klickt man auf die Überschrift "Channels"
-in der Sidebar, um eine Liste an bestehenden Channels zu bekommen.
+in der Sidebar, um den Channel aus der Liste auszuwählen.
 
 ![Channels](assets/browse-channels.png)
 
