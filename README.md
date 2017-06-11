@@ -44,9 +44,9 @@ erstellen, z.B. für einzelne Abteilungen, Klasse oder Interessengemeinschaften.
 Möchte man einem Channel beitreten, klickt man auf die Überschrift "Channels"
 in der Sidebar, um eine Liste an bestehenden Channels zu bekommen.
 
-![Channels](assets/browse-channels.png =400x)
+![Channels](assets/browse-channels.png)
 
 Nun kann ein beliebiger Channel ausgewählt werden, dem man beitreten möchte.
 Alternativ kann man über "New channel" einen neuen Channel erstellen.
 
-![Channels List](assets/browse-channels-list.png =600x)
+![Channels List](assets/browse-channels-list.png)
