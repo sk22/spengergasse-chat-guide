@@ -22,7 +22,7 @@ registrieren:
 
 ## Zugriff
 
-Mitglieder können sich nach dem Registrieren jederzeit unter foldendem Link
+Mitglieder können sich nach dem Registrieren jederzeit unter folgendem Link
 anmelden:
 
 > **[Slack-Team](https://spengergasse-chat.slack.com)**
