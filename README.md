@@ -1,15 +1,16 @@
 # Spengergasse Chat
 
-Das inoffizielle Slack-Team der HTL Spengergasse dient dazu, alle interessierten
-Schülerinnen und Schüler zu vernetzen. Dies bietet die Möglichkeit, sich mit
-anderen Spengergassler*innen über verschiedenste Themen in entsprechenden
-Channels zu unterhalten.
+Das inoffizielle Slack-Team der HTL Spengergasse dient dazu, Schülerinnen und
+Schüler zu vernetzen. Dies bietet die Möglichkeit, sich mit anderen
+Spengergassler*innen über verschiedenste Themen in entsprechenden Channels zu
+unterhalten.
 
 ## Registrierung
 
 Alle Mitglieder der HTL Spengergasse können sich unter dem folgenden Link
 registrieren:
-[Registrieren!](https://join.slack.com/spengergasse-chat/signup)
+
+[![Registrieren](https://github.com/sk22/spengergasse-chat-guide/blob/master/assets/registrieren.svg)](https://join.slack.com/spengergasse-chat/signup)
 
 * Als **Email-Adresse** ist die eigene Spengergassen-Email anzugeben
   (endet mit `@spengergasse.at`).
