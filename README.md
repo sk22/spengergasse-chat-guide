@@ -68,7 +68,7 @@ kann vom Slack-Team gebannt werden.
 ## Disclaimer
 
 Dieses Slack-Team ist derzeit komplett unabhängig von der Schulverwaltung und
-wird von Schülern verwaltet. Das ZID ist nicht in dieses Projekt involviert.
+wird von Schülern verwaltet. **Das ZID ist nicht in dieses Projekt involviert.**
 
 Bitte keine Beschwerde-Emails oder Verbesserungsvorschläge bezüglich des
 Slack-Teams an das ZID o.ä. zu senden, die haben nichts hiermit zu tun.
