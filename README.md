@@ -5,6 +5,12 @@ Schüler zu vernetzen. Dies bietet die Möglichkeit, sich mit anderen
 Spengergassler*innen über verschiedenste Themen in entsprechenden Channels zu
 unterhalten.
 
+## Inhaltsverzeichnis
+
+1. [Registrierung](#registrierung)
+2. [Zugriff](#zugriff)
+3. [Channels](#channels)
+
 ## Registrierung
 
 Alle Mitglieder der HTL Spengergasse können sich unter dem folgenden Link
