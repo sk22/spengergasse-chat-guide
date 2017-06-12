@@ -2,8 +2,8 @@
 
 Das inoffizielle Slack-Team der HTL Spengergasse dient dazu, Schülerinnen und
 Schüler zu vernetzen. Dies bietet die Möglichkeit, sich mit anderen
-Spengergassler*innen über verschiedenste Themen in entsprechenden Channels zu
-unterhalten.
+Schüler*innen der Spengergasse über verschiedenste Themen in entsprechenden
+Channels zu unterhalten.
 
 ## Inhaltsverzeichnis
 
@@ -28,6 +28,9 @@ registrieren:
 * Bitte bei der Registrierung den richtigen Vor- und Nachnamen angeben, damit
   dich andere erkennen können.
 
+Nach dem Registrieren ist zu empfehlen, das Profil einzurichten und
+dementsprechend Vor- und Nachname, Profilbild und Status einzustellen.
+
 ## Zugriff
 
 Mitglieder können sich nach dem Registrieren jederzeit unter folgendem Link
@@ -47,7 +50,8 @@ Als Team ist hier `spengergasse-chat` anzugeben.
 ## Channels
 
 Slack-Teams basieren auf Channels. Jedem Mitglied steht frei, selbst Channels zu
-erstellen, z.B. für einzelne Abteilungen, Klassen oder Interessengemeinschaften.
+erstellen die öffentlich oder nur per Einladung zu betreten sind,
+z.B. für einzelne Abteilungen, Klassen oder Interessengemeinschaften.
 
 Möchte man einem Channel beitreten, klickt man auf die Überschrift "Channels"
 in der Sidebar, um den Channel aus der Liste auszuwählen.
