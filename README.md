@@ -20,7 +20,7 @@ Alle Mitglieder der HTL Spengergasse können sich unter dem folgenden Link
 registrieren:
 
 > **[Registrieren](https://spengergasse-chat.slack.com/signup)**
-> – join.slack.com/spengergasse-chat/signup
+> – spengergasse-chat.slack.com/signup
 
 * Als **Email-Adresse** ist die eigene Spengergassen-Email anzugeben
   (endet mit `@spengergasse.at`).
