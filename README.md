@@ -3,7 +3,8 @@
 Das inoffizielle Slack-Team der HTL Spengergasse dient dazu, Schülerinnen und
 Schüler zu vernetzen. Dies bietet die Möglichkeit, sich mit anderen
 Schüler*innen der Spengergasse über verschiedenste Themen in entsprechenden
-Channels zu unterhalten.
+Channels zu unterhalten, zu diskutieren, schulische und außerschulische
+Aktivitäten zu planen und vieles mehr.
 
 ## Inhaltsverzeichnis
 
@@ -31,7 +32,7 @@ registrieren:
 Nach dem Registrieren ist zu empfehlen, das Profil einzurichten und
 dementsprechend Vor- und Nachname, Profilbild und Status einzustellen.
 
-Slack selber sieht dann ungefähr so aus:
+Slack selber sieht dann ungefähr so aus:g
 
 ![Slack](assets/slack.png)
 
