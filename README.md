@@ -32,7 +32,7 @@ registrieren:
 Nach dem Registrieren ist zu empfehlen, das Profil einzurichten und
 dementsprechend Vor- und Nachname, Profilbild und Status einzustellen.
 
-Slack selber sieht dann ungefähr so aus:g
+Slack selber sieht dann ungefähr so aus:
 
 ![Slack](assets/slack.png)
 
