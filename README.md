@@ -31,6 +31,8 @@ registrieren:
 
 Nach dem Registrieren ist zu empfehlen, das Profil einzurichten und
 dementsprechend Vor- und Nachname, Profilbild und Status einzustellen.
+Man ist nun automatisch im #general- und #random-Channel, wo man sich direkt
+mit anderen unterhalten kann.
 
 Slack selber sieht dann ungefähr so aus:
 
