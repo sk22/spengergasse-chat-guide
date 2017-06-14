@@ -6,11 +6,14 @@ Schüler*innen der Spengergasse über verschiedenste Themen in entsprechenden
 Channels zu unterhalten, zu diskutieren, schulische und außerschulische
 Aktivitäten zu planen und vieles mehr.
 
+> Bitte nach dem Registrieren die **[Channel](#channels)-Liste durchschauen**
+> und relevanten Channels beitreten.
+
 ## Inhaltsverzeichnis
 
 1. [Registrierung](#registrierung)
-2. [Zugriff](#zugriff)
-3. [Channels](#channels)
+2. [Channels](#channels)
+3. [Zugriff](#zugriff)
 4. [Regeln](#regeln)
 5. [Disclaimer](#disclaimer)
 
