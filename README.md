@@ -38,22 +38,6 @@ Slack selber sieht dann ungefähr so aus:
 
 ![Slack](assets/slack.png)
 
-## Zugriff
-
-Mitglieder können sich nach dem Registrieren jederzeit unter folgendem Link
-anmelden:
-
-> **[Slack-Team](https://spengergasse-chat.slack.com)**
-> – spengergasse-chat.slack.com
-
-Weitere Möglichkeiten sind die Slack-Apps für Mobil und Desktop.
-Als Team ist hier `spengergasse-chat` anzugeben.
-
-* [iOS](https://itunes.apple.com/us/app/slack-business-communication-for-teams/id618783545)
-* [Android](https://play.google.com/store/apps/details?id=com.Slack)
-* [macOS](https://slack.com/downloads/mac)
-* [Windows](https://slack.com/downloads/windows)
-
 ## Channels
 
 Slack-Teams basieren auf Channels. Jedem Mitglied steht frei, selbst Channels zu
@@ -69,6 +53,22 @@ Nun kann ein beliebiger Channel ausgewählt werden, dem man beitreten möchte.
 Alternativ kann man über "New channel" einen neuen Channel erstellen.
 
 ![Channels List](assets/browse-channels-list.png)
+
+## Zugriff
+
+Mitglieder können sich nach dem Registrieren jederzeit unter folgendem Link
+anmelden:
+
+> **[Slack-Team](https://spengergasse-chat.slack.com)**
+> – spengergasse-chat.slack.com
+
+Weitere Möglichkeiten sind die Slack-Apps für Mobil und Desktop.
+Als Team ist hier `spengergasse-chat` anzugeben.
+
+* [iOS](https://itunes.apple.com/us/app/slack-business-communication-for-teams/id618783545)
+* [Android](https://play.google.com/store/apps/details?id=com.Slack)
+* [macOS](https://slack.com/downloads/mac)
+* [Windows](https://slack.com/downloads/windows)
 
 ## Regeln
 
