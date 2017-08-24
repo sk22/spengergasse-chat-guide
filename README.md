@@ -44,7 +44,7 @@ Slack selber sieht dann ungefähr so aus:
 ## Channels
 
 Slack-Teams basieren auf Channels. Jedem Mitglied steht frei, selbst Channels zu
-erstellen die öffentlich oder nur per Einladung zu betreten sind,
+erstellen, die öffentlich oder nur per Einladung zu betreten sind,
 z.B. für einzelne Abteilungen, Klassen oder Interessengemeinschaften.
 
 Möchte man einem Channel beitreten, klickt man auf die Überschrift "Channels"
